@@ -2,8 +2,8 @@
 
 ### My contacts:
 - Mailto: goncharov.ma@phystech.edu
-- VK: [EverRester][https://vk.com/everrester]
-- [CV][https://github.com/MarkGoncharovAl/CV/blob/main/GoncharovM.pdf]
+- VK: [EverRester](https://vk.com/everrester)
+- [CV](CV.pdf)
   
 In this repository you can find:
 1. 
