@@ -9,12 +9,12 @@ In this page you have to do:
 > [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncharov.ma@phystech.edu)
 > [![VK](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://vk.com/everrester)
 
-3. My favourite tools for programming!
+3. Favourite tools for programming!
 > [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 > [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> <b>Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=MarkGoncharovAl&show_icons=true&theme=system&line_height=27">
