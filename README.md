@@ -4,7 +4,7 @@ Hi, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba8
 In this page you have to do:
 
 1. Check out my [***CV***](CV.pdf)
-2. Print me something!
+2. Print me something to ***goncharov.ma@phystech.edu*** or using messangers
 > [![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EverRester)
 > [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncharov.ma@phystech.edu)
 > [![VK](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://vk.com/everrester)
