@@ -7,10 +7,10 @@
   
 In this repository you can find:
 
-1. ### ILab
-> The best projects during Intel couses in MIPT
+* ### ILab 
+```The best projects during Intel couses in MIPT```
 
-2. ### BAR
+* ### BAR
 > Multiplayer racing-game, where you can create your
 own map!
 
