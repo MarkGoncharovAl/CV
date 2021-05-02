@@ -7,8 +7,7 @@
   
 In this repository you can find:
 
-* ### ILab 
-```The best projects during Intel couses in MIPT```
+* ***ILab*** The best projects of Intel courses in MIPT
 
 * ### BAR
 > Multiplayer racing-game, where you can create your
