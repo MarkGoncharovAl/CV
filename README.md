@@ -7,7 +7,7 @@
   
 In this repository you can find:
 
-* ***ILab*** The best projects of Intel courses in MIPT
+* [***ILab***](https://github.com/MarkGoncharovAl/ILab) The best projects of Intel courses in MIPT
 
 * ### BAR
 > Multiplayer racing-game, where you can create your
