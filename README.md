@@ -8,10 +8,10 @@
 In this repository you can find:
 
 * [***ILab***](https://github.com/MarkGoncharovAl/ILab) 
-The best projects of Intel courses in MIPT
+> The best projects of Intel courses in MIPT
 
 * [***BAR***](https://github.com/MarkGoncharovAl/BAR_BuildAndRun_) 
-```Multiplayer racing-game, where you can create your own map!```
+> Multiplayer racing-game, where you can create your own map!
 
 MicroController
 ------
